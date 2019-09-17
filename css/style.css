@@ -1,0 +1,138 @@
+html,
+body{
+	margin: 0;
+	padding: 0;
+}
+
+*{
+	box-sizing: border-box;
+}
+
+ .wrapper_content {width: 1200px;
+                   background: #F7F8E0;   
+                    margin: 0 auto; }
+
+.block_content_left {
+	  max-width: 800px;
+	   background: #A4A4A4; 
+	   display: inline-flex;
+	   height: 500px;
+}
+
+
+.block_content_left_column1 {
+	margin: 10px auto;
+	 background: #A9F5E1; 
+	 float: right;
+}
+
+
+
+ .block_content_left_column2 {
+	margin: 10px auto;
+	float: right;
+  background: #81F79F; 
+ } 
+
+
+.article_info   {
+background: #81F79F;
+display: flex;
+ }
+ .article_image_info {
+	margin-top: 0;
+	width: 150px;
+	height: 150px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	transform: scale(0.9);
+	float: left;
+	-webkit-transform: scale(0.9);
+	-moz-transform: scale(0.9);
+	-ms-transform: scale(0.9);
+	-o-transform: scale(0.9);
+}
+
+ .article_info_box {
+	max-width: 200px; 
+	float: right;
+	font-size: 14px;
+
+	 }
+
+
+
+
+ .block_content_right {
+		max-width: 400px;
+	   background: #585858; 	
+	   float: right;	
+	  }
+
+
+.block_content_right_column1 {
+	margin: 10px auto;
+	 background: #A9F5E1; 
+}
+
+
+.block_content_right_column2 {
+   	margin: 10px auto;
+	 background: #81F79F; }
+
+
+
+.zemlya_image {
+		width: 200px ;
+		height: 200px;
+		background-repeat: no-repeat;
+		transform: scale(0.57);
+		padding: 10px;
+		margin-left: auto;
+	
+	}
+
+/* .content_right_colum_4 {}
+ .block
+ .block_content 
+transform: scale(0.5);
+
+.articles
+.articles_vertical
+.article_image
+
+*/
+
+
+
+
+
+/*nav{
+	background-color: #F15931;
+	padding: 10px;
+}
+
+ul{
+	list-style: none;
+	padding: 0 100px 0 20px;
+	margin: 0;
+	background-color: #F48133;
+	font-size: 0;
+}
+
+ul li{
+	display: inline-block;
+	padding: 10px;
+	text-transform: uppercase;
+	margin-left: auto;
+	background-color: #008FD5;
+	color: #fff;
+	border-right: 2px solid black;
+	font-size: 16px;
+}
+
+.logo{
+	margin-right: auto;
+	background-color: #111;
+}
+*/
